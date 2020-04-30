@@ -1,0 +1,1383 @@
+﻿Sno,Date,Country/Region,Province/State,Confirmed,Region
+1,30-01-2020,India,Kerala,1,India
+2,31-01-2020,India,Kerala,1,India
+3,01-02-2020,India,Kerala,2,India
+4,02-02-2020,India,Kerala,3,India
+5,03-02-2020,India,Kerala,3,India
+6,04-02-2020,India,Kerala,3,India
+7,05-02-2020,India,Kerala,3,India
+8,06-02-2020,India,Kerala,3,India
+9,07-02-2020,India,Kerala,3,India
+10,08-02-2020,India,Kerala,3,India
+11,09-02-2020,India,Kerala,3,India
+12,10-02-2020,India,Kerala,3,India
+13,11-02-2020,India,Kerala,3,India
+14,12-02-2020,India,Kerala,3,India
+15,13-02-2020,India,Kerala,3,India
+16,14-02-2020,India,Kerala,3,India
+17,15-02-2020,India,Kerala,3,India
+18,16-02-2020,India,Kerala,3,India
+19,17-02-2020,India,Kerala,3,India
+20,18-02-2020,India,Kerala,3,India
+21,19-02-2020,India,Kerala,3,India
+22,20-02-2020,India,Kerala,3,India
+23,21-02-2020,India,Kerala,3,India
+24,22-02-2020,India,Kerala,3,India
+25,23-02-2020,India,Kerala,3,India
+26,24-02-2020,India,Kerala,3,India
+27,25-02-2020,India,Kerala,3,India
+28,26-02-2020,India,Kerala,3,India
+29,27-02-2020,India,Kerala,3,India
+30,28-02-2020,India,Kerala,3,India
+31,29-02-2020,India,Kerala,3,India
+32,01-03-2020,India,Kerala,3,India
+33,02-03-2020,India,Telengana,1,India
+34,02-03-2020,India,Kerala,3,India
+35,02-03-2020,India,Delhi,1,India
+36,03-03-2020,India,Telengana,1,India
+37,03-03-2020,India,Rajasthan,1,India
+38,03-03-2020,India,Kerala,3,India
+39,03-03-2020,India,Delhi,1,India
+40,04-03-2020,India,Uttar Pradesh,6,India
+41,04-03-2020,India,Kerala,3,India
+42,04-03-2020,India,Haryana,2,India
+43,04-03-2020,India,Delhi,1,India
+44,04-03-2020,India,Telengana,1,India
+45,04-03-2020,India,Rajasthan,15,India
+46,05-03-2020,India,Delhi,2,India
+47,05-03-2020,India,Haryana,2,India
+48,05-03-2020,India,Kerala,3,India
+49,05-03-2020,India,Rajasthan,15,India
+50,05-03-2020,India,Telengana,1,India
+51,05-03-2020,India,Uttar Pradesh,7,India
+52,06-03-2020,India,Delhi,3,India
+53,06-03-2020,India,Haryana,2,India
+54,06-03-2020,India,Kerala,3,India
+55,06-03-2020,India,Rajasthan,15,India
+56,06-03-2020,India,Uttar Pradesh,7,India
+57,06-03-2020,India,Telengana,1,India
+58,07-03-2020,India,Kerala,3,India
+59,07-03-2020,India,Uttar Pradesh,7,India
+60,07-03-2020,India,Ladakh,2,India
+61,07-03-2020,India,Telengana,1,India
+62,07-03-2020,India,Tamil Nadu,1,India
+63,07-03-2020,India,Delhi,3,India
+64,07-03-2020,India,Haryana,2,India
+65,07-03-2020,India,Rajasthan,15,India
+66,08-03-2020,India,Ladakh,2,India
+67,08-03-2020,India,Telengana,1,India
+68,08-03-2020,India,Tamil Nadu,1,India
+69,08-03-2020,India,Rajasthan,15,India
+70,08-03-2020,India,Kerala,8,India
+71,08-03-2020,India,Haryana,2,India
+72,08-03-2020,India,Delhi,3,India
+73,08-03-2020,India,Uttar Pradesh,7,India
+74,09-03-2020,India,Ladakh,2,India
+75,09-03-2020,India,Karnataka,1,India
+76,09-03-2020,India,Kerala,9,India
+77,09-03-2020,India,Maharashtra,2,India
+78,09-03-2020,India,Punjab,1,India
+79,09-03-2020,India,Rajasthan,15,India
+80,09-03-2020,India,Tamil Nadu,1,India
+81,09-03-2020,India,Telengana,1,India
+82,09-03-2020,India,Jammu and Kashmir,1,India
+83,09-03-2020,India,Uttar Pradesh,7,India
+84,09-03-2020,India,Haryana,2,India
+85,09-03-2020,India,Delhi,4,India
+86,10-03-2020,India,Uttar Pradesh,7,India
+87,10-03-2020,India,Ladakh,2,India
+88,10-03-2020,India,Delhi,4,India
+89,10-03-2020,India,Haryana,2,India
+90,10-03-2020,India,Karnataka,4,India
+91,10-03-2020,India,Kerala,15,India
+92,10-03-2020,India,Maharashtra,5,India
+93,10-03-2020,India,Punjab,1,India
+94,10-03-2020,India,Rajasthan,15,India
+95,10-03-2020,India,Tamil Nadu,1,India
+96,10-03-2020,India,Telengana,1,India
+97,10-03-2020,India,Jammu and Kashmir,1,India
+98,11-03-2020,India,Maharashtra,2,India
+99,11-03-2020,India,Delhi,5,India
+100,11-03-2020,India,Haryana,14,India
+101,11-03-2020,India,Kerala,17,India
+102,11-03-2020,India,Rajasthan,3,India
+103,11-03-2020,India,Telengana,1,India
+104,11-03-2020,India,Uttar Pradesh,9,India
+105,11-03-2020,India,Ladakh,2,India
+106,11-03-2020,India,Tamil Nadu,1,India
+107,11-03-2020,India,Jammu and Kashmir,1,India
+108,11-03-2020,India,Punjab,1,India
+109,11-03-2020,India,Karnataka,4,India
+110,12-03-2020,India,Delhi,6,India
+111,12-03-2020,India,Haryana,14,India
+112,12-03-2020,India,Kerala,17,India
+113,12-03-2020,India,Rajasthan,3,India
+114,12-03-2020,India,Telengana,1,India
+115,12-03-2020,India,Uttar Pradesh,11,India
+116,12-03-2020,India,Ladakh,3,India
+117,12-03-2020,India,Tamil Nadu,1,India
+118,12-03-2020,India,Jammu and Kashmir,1,India
+119,12-03-2020,India,Punjab,1,India
+120,12-03-2020,India,Karnataka,4,India
+121,12-03-2020,India,Maharashtra,11,India
+122,12-03-2020,India,Andhra Pradesh,1,India
+123,13-03-2020,India,Delhi,6,India
+124,13-03-2020,India,Haryana,14,India
+125,13-03-2020,India,Kerala,19,India
+126,13-03-2020,India,Rajasthan,3,India
+127,13-03-2020,India,Telengana,1,India
+128,13-03-2020,India,Uttar Pradesh,11,India
+129,13-03-2020,India,Ladakh,3,India
+130,13-03-2020,India,Tamil Nadu,1,India
+131,13-03-2020,India,Jammu and Kashmir,1,India
+132,13-03-2020,India,Punjab,1,India
+133,13-03-2020,India,Karnataka,6,India
+134,13-03-2020,India,Maharashtra,14,India
+135,13-03-2020,India,Andhra Pradesh,1,India
+136,14-03-2020,India,Delhi,7,India
+137,14-03-2020,India,Haryana,14,India
+138,14-03-2020,India,Kerala,19,India
+139,14-03-2020,India,Rajasthan,3,India
+140,14-03-2020,India,Telengana,1,India
+141,14-03-2020,India,Uttar Pradesh,12,India
+142,14-03-2020,India,Ladakh,3,India
+143,14-03-2020,India,Tamil Nadu,1,India
+144,14-03-2020,India,Jammu and Kashmir,2,India
+145,14-03-2020,India,Punjab,1,India
+146,14-03-2020,India,Karnataka,6,India
+147,14-03-2020,India,Maharashtra,14,India
+148,14-03-2020,India,Andhra Pradesh,1,India
+149,15-03-2020,India,Andhra Pradesh,1,India
+150,15-03-2020,India,Delhi,7,India
+151,15-03-2020,India,Haryana,14,India
+152,15-03-2020,India,Karnataka,6,India
+153,15-03-2020,India,Kerala,22,India
+154,15-03-2020,India,Maharashtra,32,India
+155,15-03-2020,India,Punjab,1,India
+156,15-03-2020,India,Rajasthan,4,India
+157,15-03-2020,India,Tamil Nadu,1,India
+158,15-03-2020,India,Telengana,3,India
+159,15-03-2020,India,Jammu and Kashmir,2,India
+160,15-03-2020,India,Ladakh,3,India
+161,15-03-2020,India,Uttar Pradesh,13,India
+162,15-03-2020,India,Uttarakhand,1,India
+163,16-03-2020,India,Andhra Pradesh,1,India
+164,16-03-2020,India,Delhi,7,India
+165,16-03-2020,India,Haryana,14,India
+166,16-03-2020,India,Karnataka,6,India
+167,16-03-2020,India,Kerala,23,India
+168,16-03-2020,India,Maharashtra,32,India
+169,16-03-2020,India,Odisha,1,India
+170,16-03-2020,India,Punjab,1,India
+171,16-03-2020,India,Rajasthan,4,India
+172,16-03-2020,India,Tamil Nadu,1,India
+173,16-03-2020,India,Telengana,3,India
+174,16-03-2020,India,Jammu and Kashmir,3,India
+175,16-03-2020,India,Ladakh,4,India
+176,16-03-2020,India,Uttar Pradesh,13,India
+177,16-03-2020,India,Uttarakhand,1,India
+178,17-03-2020,India,Andhra Pradesh,1,India
+179,17-03-2020,India,Delhi,8,India
+180,17-03-2020,India,Haryana,15,India
+181,17-03-2020,India,Karnataka,11,India
+182,17-03-2020,India,Kerala,26,India
+183,17-03-2020,India,Maharashtra,39,India
+184,17-03-2020,India,Odisha,1,India
+185,17-03-2020,India,Punjab,1,India
+186,17-03-2020,India,Rajasthan,4,India
+187,17-03-2020,India,Tamil Nadu,1,India
+188,17-03-2020,India,Telengana,5,India
+189,17-03-2020,India,Jammu and Kashmir,3,India
+190,17-03-2020,India,Ladakh,6,India
+191,17-03-2020,India,Uttar Pradesh,15,India
+192,17-03-2020,India,Uttarakhand,1,India
+193,18-03-2020,India,Andhra Pradesh,1,India
+194,18-03-2020,India,Delhi,10,India
+195,18-03-2020,India,Haryana,17,India
+196,18-03-2020,India,Karnataka,11,India
+197,18-03-2020,India,Kerala,27,India
+198,18-03-2020,India,Maharashtra,42,India
+199,18-03-2020,India,Odisha,1,India
+200,18-03-2020,India,Puducherry,1,India
+201,18-03-2020,India,Punjab,1,India
+202,18-03-2020,India,Rajasthan,4,India
+203,18-03-2020,India,Tamil Nadu,1,India
+204,18-03-2020,India,Telengana,6,India
+205,18-03-2020,India,Jammu and Kashmir,3,India
+206,18-03-2020,India,Ladakh,8,India
+207,18-03-2020,India,Uttar Pradesh,16,India
+208,18-03-2020,India,Uttarakhand,1,India
+209,18-03-2020,India,West Bengal,1,India
+210,19-03-2020,India,Andhra Pradesh,2,India
+211,19-03-2020,India,Chhattisgarh,1,India
+212,19-03-2020,India,Delhi,12,India
+213,19-03-2020,India,Haryana,17,India
+214,19-03-2020,India,Karnataka,14,India
+215,19-03-2020,India,Kerala,27,India
+216,19-03-2020,India,Maharashtra,47,India
+217,19-03-2020,India,Odisha,1,India
+218,19-03-2020,India,Puducherry,1,India
+219,19-03-2020,India,Punjab,2,India
+220,19-03-2020,India,Rajasthan,7,India
+221,19-03-2020,India,Tamil Nadu,2,India
+222,19-03-2020,India,Telengana,6,India
+223,19-03-2020,India,Chandigarh,1,India
+224,19-03-2020,India,Jammu and Kashmir,4,India
+225,19-03-2020,India,Ladakh,8,India
+226,19-03-2020,India,Uttar Pradesh,19,India
+227,19-03-2020,India,Uttarakhand,1,India
+228,19-03-2020,India,West Bengal,1,India
+229,20-03-2020,India,Andhra Pradesh,3,India
+230,20-03-2020,India,Chhattisgarh,1,India
+231,20-03-2020,India,Delhi,17,India
+232,20-03-2020,India,Gujarat,5,India
+233,20-03-2020,India,Haryana,17,India
+234,20-03-2020,India,Karnataka,15,India
+235,20-03-2020,India,Kerala,28,India
+236,20-03-2020,India,Maharashtra,52,India
+237,20-03-2020,India,Odisha,2,India
+238,20-03-2020,India,Puducherry,1,India
+239,20-03-2020,India,Punjab,2,India
+240,20-03-2020,India,Rajasthan,17,India
+241,20-03-2020,India,Tamil Nadu,3,India
+242,20-03-2020,India,Telengana,17,India
+243,20-03-2020,India,Chandigarh,1,India
+244,20-03-2020,India,Jammu and Kashmir,4,India
+245,20-03-2020,India,Ladakh,10,India
+246,20-03-2020,India,Uttar Pradesh,23,India
+247,20-03-2020,India,Uttarakhand,3,India
+248,20-03-2020,India,West Bengal,2,India
+249,21-03-2020,India,Andhra Pradesh,3,India
+250,21-03-2020,India,Chhattisgarh,1,India
+251,21-03-2020,India,Delhi,26,India
+252,21-03-2020,India,Gujarat,7,India
+253,21-03-2020,India,Haryana,17,India
+254,21-03-2020,India,Himachal Pradesh,2,India
+255,21-03-2020,India,Karnataka,15,India
+256,21-03-2020,India,Kerala,40,India
+257,21-03-2020,India,Madhya Pradesh,4,India
+258,21-03-2020,India,Maharashtra,63,India
+259,21-03-2020,India,Odisha,2,India
+260,21-03-2020,India,Puducherry,1,India
+261,21-03-2020,India,Punjab,13,India
+262,21-03-2020,India,Rajasthan,17,India
+263,21-03-2020,India,Tamil Nadu,3,India
+264,21-03-2020,India,Telengana,21,India
+265,21-03-2020,India,Chandigarh,1,India
+266,21-03-2020,India,Jammu and Kashmir,4,India
+267,21-03-2020,India,Ladakh,13,India
+268,21-03-2020,India,Uttar Pradesh,24,India
+269,21-03-2020,India,Uttarakhand,3,India
+270,21-03-2020,India,West Bengal,3,India
+271,22-03-2020,India,Andhra Pradesh,5,India
+272,22-03-2020,India,Bihar,2,India
+273,22-03-2020,India,Chhattisgarh,1,India
+274,22-03-2020,India,Delhi,29,India
+275,22-03-2020,India,Gujarat,18,India
+276,22-03-2020,India,Haryana,21,India
+277,22-03-2020,India,Himachal Pradesh,2,India
+278,22-03-2020,India,Karnataka,26,India
+279,22-03-2020,India,Kerala,52,India
+280,22-03-2020,India,Madhya Pradesh,4,India
+281,22-03-2020,India,Maharashtra,67,India
+282,22-03-2020,India,Odisha,2,India
+283,22-03-2020,India,Puducherry,1,India
+284,22-03-2020,India,Punjab,21,India
+285,22-03-2020,India,Rajasthan,24,India
+286,22-03-2020,India,Tamil Nadu,7,India
+287,22-03-2020,India,Telengana,22,India
+288,22-03-2020,India,Chandigarh,5,India
+289,22-03-2020,India,Jammu and Kashmir,4,India
+290,22-03-2020,India,Ladakh,13,India
+291,22-03-2020,India,Uttar Pradesh,27,India
+292,22-03-2020,India,Uttarakhand,3,India
+293,22-03-2020,India,West Bengal,4,India
+294,23-03-2020,India,Andhra Pradesh,7,India
+295,23-03-2020,India,Bihar,2,India
+296,23-03-2020,India,Chhattisgarh,1,India
+297,23-03-2020,India,Delhi,29,India
+298,23-03-2020,India,Gujarat,29,India
+299,23-03-2020,India,Haryana,26,India
+300,23-03-2020,India,Himachal Pradesh,2,India
+301,23-03-2020,India,Karnataka,33,India
+302,23-03-2020,India,Kerala,67,India
+303,23-03-2020,India,Madhya Pradesh,6,India
+304,23-03-2020,India,Maharashtra,74,India
+305,23-03-2020,India,Odisha,2,India
+306,23-03-2020,India,Puducherry,1,India
+307,23-03-2020,India,Punjab,21,India
+308,23-03-2020,India,Rajasthan,28,India
+309,23-03-2020,India,Tamil Nadu,9,India
+310,23-03-2020,India,Telengana,32,India
+311,23-03-2020,India,Chandigarh,6,India
+312,23-03-2020,India,Jammu and Kashmir,4,India
+313,23-03-2020,India,Ladakh,13,India
+314,23-03-2020,India,Uttar Pradesh,31,India
+315,23-03-2020,India,Uttarakhand,3,India
+316,23-03-2020,India,West Bengal,7,India
+317,24-03-2020,India,Andhra Pradesh,8,India
+318,24-03-2020,India,Bihar,3,India
+319,24-03-2020,India,Chhattisgarh,1,India
+320,24-03-2020,India,Delhi,30,India
+321,24-03-2020,India,Gujarat,33,India
+322,24-03-2020,India,Haryana,28,India
+323,24-03-2020,India,Himachal Pradesh,3,India
+324,24-03-2020,India,Karnataka,37,India
+325,24-03-2020,India,Kerala,95,India
+326,24-03-2020,India,Madhya Pradesh,7,India
+327,24-03-2020,India,Maharashtra,89,India
+328,24-03-2020,India,Manipur,1,India
+329,24-03-2020,India,Odisha,2,India
+330,24-03-2020,India,Puducherry,1,India
+331,24-03-2020,India,Punjab,29,India
+332,24-03-2020,India,Rajasthan,32,India
+333,24-03-2020,India,Tamil Nadu,15,India
+334,24-03-2020,India,Telengana,35,India
+335,24-03-2020,India,Chandigarh,7,India
+336,24-03-2020,India,Jammu and Kashmir,4,India
+337,24-03-2020,India,Ladakh,13,India
+338,24-03-2020,India,Uttar Pradesh,33,India
+339,24-03-2020,India,Uttarakhand,4,India
+340,24-03-2020,India,West Bengal,9,India
+341,25-03-2020,India,Andhra Pradesh,9,India
+342,25-03-2020,India,Bihar,4,India
+343,25-03-2020,India,Chhattisgarh,1,India
+344,25-03-2020,India,Delhi,31,India
+345,25-03-2020,India,Gujarat,38,India
+346,25-03-2020,India,Haryana,28,India
+347,25-03-2020,India,Himachal Pradesh,3,India
+348,25-03-2020,India,Karnataka,41,India
+349,25-03-2020,India,Kerala,109,India
+350,25-03-2020,India,Madhya Pradesh,14,India
+351,25-03-2020,India,Maharashtra,128,India
+352,25-03-2020,India,Manipur,1,India
+353,25-03-2020,India,Mizoram,1,India
+354,25-03-2020,India,Odisha,2,India
+355,25-03-2020,India,Puducherry,1,India
+356,25-03-2020,India,Punjab,29,India
+357,25-03-2020,India,Rajasthan,36,India
+358,25-03-2020,India,Tamil Nadu,18,India
+359,25-03-2020,India,Telengana,35,India
+360,25-03-2020,India,Chandigarh,7,India
+361,25-03-2020,India,Jammu and Kashmir,7,India
+362,25-03-2020,India,Ladakh,13,India
+363,25-03-2020,India,Uttar Pradesh,37,India
+364,25-03-2020,India,Uttarakhand,4,India
+365,25-03-2020,India,West Bengal,9,India
+366,26-03-2020,India,Andaman and Nicobar Islands,1,India
+367,26-03-2020,India,Andhra Pradesh,11,India
+368,26-03-2020,India,Bihar,6,India
+369,26-03-2020,India,Chandigarh,7,India
+370,26-03-2020,India,Chhattisgarh,6,India
+371,26-03-2020,India,Delhi,36,India
+372,26-03-2020,India,Goa,3,India
+373,26-03-2020,India,Gujarat,43,India
+374,26-03-2020,India,Haryana,30,India
+375,26-03-2020,India,Himachal Pradesh,3,India
+376,26-03-2020,India,Jammu and Kashmir,13,India
+377,26-03-2020,India,Karnataka,55,India
+378,26-03-2020,India,Kerala,118,India
+379,26-03-2020,India,Ladakh,13,India
+380,26-03-2020,India,Madhya Pradesh,20,India
+381,26-03-2020,India,Maharashtra,124,India
+382,26-03-2020,India,Manipur,1,India
+383,26-03-2020,India,Mizoram,1,India
+384,26-03-2020,India,Odisha,2,India
+385,26-03-2020,India,Puducherry,1,India
+386,26-03-2020,India,Punjab,33,India
+387,26-03-2020,India,Rajasthan,41,India
+388,26-03-2020,India,Tamil Nadu,26,India
+389,26-03-2020,India,Telengana,44,India
+390,26-03-2020,India,Uttarakhand,5,India
+391,26-03-2020,India,Uttar Pradesh,41,India
+392,26-03-2020,India,West Bengal,10,India
+393,27-03-2020,India,Andaman and Nicobar Islands,1,India
+394,27-03-2020,India,Andhra Pradesh,12,India
+395,27-03-2020,India,Bihar,6,India
+396,27-03-2020,India,Chandigarh,7,India
+397,27-03-2020,India,Chhattisgarh,6,India
+398,27-03-2020,India,Delhi,36,India
+399,27-03-2020,India,Goa,3,India
+400,27-03-2020,India,Gujarat,43,India
+401,27-03-2020,India,Haryana,30,India
+402,27-03-2020,India,Himachal Pradesh,3,India
+403,27-03-2020,India,Jammu and Kashmir,13,India
+404,27-03-2020,India,Karnataka,55,India
+405,27-03-2020,India,Kerala,137,India
+406,27-03-2020,India,Ladakh,13,India
+407,27-03-2020,India,Madhya Pradesh,20,India
+408,27-03-2020,India,Maharashtra,130,India
+409,27-03-2020,India,Manipur,1,India
+410,27-03-2020,India,Mizoram,1,India
+411,27-03-2020,India,Odisha,2,India
+412,27-03-2020,India,Puducherry,1,India
+413,27-03-2020,India,Punjab,33,India
+414,27-03-2020,India,Rajasthan,41,India
+415,27-03-2020,India,Tamil Nadu,29,India
+416,27-03-2020,India,Telengana,45,India
+417,27-03-2020,India,Uttarakhand,5,India
+418,27-03-2020,India,Uttar Pradesh,41,India
+419,27-03-2020,India,West Bengal,10,India
+420,28-03-2020,India,Andhra Pradesh,14,India
+421,28-03-2020,India,Andaman and Nicobar Islands,6,India
+422,28-03-2020,India,Bihar,9,India
+423,28-03-2020,India,Chandigarh,8,India
+424,28-03-2020,India,Chhattisgarh,6,India
+425,28-03-2020,India,Delhi,39,India
+426,28-03-2020,India,Goa,3,India
+427,28-03-2020,India,Gujarat,45,India
+428,28-03-2020,India,Haryana,33,India
+429,28-03-2020,India,Himachal Pradesh,3,India
+430,28-03-2020,India,Jammu and Kashmir,20,India
+431,28-03-2020,India,Karnataka,55,India
+432,28-03-2020,India,Kerala,176,India
+433,28-03-2020,India,Ladakh,13,India
+434,28-03-2020,India,Madhya Pradesh,30,India
+435,28-03-2020,India,Maharashtra,180,India
+436,28-03-2020,India,Manipur,1,India
+437,28-03-2020,India,Mizoram,1,India
+438,28-03-2020,India,Odisha,3,India
+439,28-03-2020,India,Puducherry,1,India
+440,28-03-2020,India,Punjab,38,India
+441,28-03-2020,India,Rajasthan,54,India
+442,28-03-2020,India,Tamil Nadu,40,India
+443,28-03-2020,India,Telengana,56,India
+444,28-03-2020,India,Uttarakhand,5,India
+445,28-03-2020,India,Uttar Pradesh,55,India
+446,28-03-2020,India,West Bengal,15,India
+447,29-03-2020,India,Andhra Pradesh,19,India
+448,29-03-2020,India,Andaman and Nicobar Islands,9,India
+449,29-03-2020,India,Bihar,11,India
+450,29-03-2020,India,Chandigarh,8,India
+451,29-03-2020,India,Chhattisgarh,7,India
+452,29-03-2020,India,Delhi,49,India
+453,29-03-2020,India,Goa,5,India
+454,29-03-2020,India,Gujarat,58,India
+455,29-03-2020,India,Haryana,33,India
+456,29-03-2020,India,Himachal Pradesh,3,India
+457,29-03-2020,India,Jammu and Kashmir,31,India
+458,29-03-2020,India,Karnataka,76,India
+459,29-03-2020,India,Kerala,182,India
+460,29-03-2020,India,Ladakh,13,India
+461,29-03-2020,India,Madhya Pradesh,30,India
+462,29-03-2020,India,Maharashtra,186,India
+463,29-03-2020,India,Manipur,1,India
+464,29-03-2020,India,Mizoram,1,India
+465,29-03-2020,India,Odisha,3,India
+466,29-03-2020,India,Puducherry,1,India
+467,29-03-2020,India,Punjab,38,India
+468,29-03-2020,India,Rajasthan,55,India
+469,29-03-2020,India,Tamil Nadu,49,India
+470,29-03-2020,India,Telengana,66,India
+471,29-03-2020,India,Uttarakhand,7,India
+472,29-03-2020,India,Uttar Pradesh,65,India
+473,29-03-2020,India,West Bengal,18,India
+474,30-03-2020,India,Andhra Pradesh,23,India
+475,30-03-2020,India,Andaman and Nicobar Islands,9,India
+476,30-03-2020,India,Bihar,15,India
+477,30-03-2020,India,Chandigarh,8,India
+478,30-03-2020,India,Chhattisgarh,7,India
+479,30-03-2020,India,Delhi,87,India
+480,30-03-2020,India,Goa,5,India
+481,30-03-2020,India,Gujarat,69,India
+482,30-03-2020,India,Haryana,36,India
+483,30-03-2020,India,Himachal Pradesh,3,India
+484,30-03-2020,India,Jammu and Kashmir,48,India
+485,30-03-2020,India,Karnataka,83,India
+486,30-03-2020,India,Kerala,202,India
+487,30-03-2020,India,Ladakh,13,India
+488,30-03-2020,India,Madhya Pradesh,47,India
+489,30-03-2020,India,Maharashtra,198,India
+490,30-03-2020,India,Manipur,1,India
+491,30-03-2020,India,Mizoram,1,India
+492,30-03-2020,India,Odisha,3,India
+493,30-03-2020,India,Puducherry,1,India
+494,30-03-2020,India,Punjab,38,India
+495,30-03-2020,India,Rajasthan,59,India
+496,30-03-2020,India,Tamil Nadu,67,India
+497,30-03-2020,India,Telengana,71,India
+498,30-03-2020,India,Uttarakhand,7,India
+499,30-03-2020,India,Uttar Pradesh,82,India
+500,30-03-2020,India,West Bengal,22,India
+501,30-03-2020,India,Unassigned,46,India
+502,31-03-2020,India,Andhra Pradesh,40,India
+503,31-03-2020,India,Andaman and Nicobar Islands,10,India
+504,31-03-2020,India,Bihar,15,India
+505,31-03-2020,India,Chandigarh,13,India
+506,31-03-2020,India,Chhattisgarh,8,India
+507,31-03-2020,India,Delhi,97,India
+508,31-03-2020,India,Goa,5,India
+509,31-03-2020,India,Gujarat,73,India
+510,31-03-2020,India,Haryana,40,India
+511,31-03-2020,India,Himachal Pradesh,3,India
+512,31-03-2020,India,Jammu and Kashmir,54,India
+513,31-03-2020,India,Karnataka,83,India
+514,31-03-2020,India,Kerala,234,India
+515,31-03-2020,India,Ladakh,13,India
+516,31-03-2020,India,Madhya Pradesh,47,India
+517,31-03-2020,India,Maharashtra,216,India
+518,31-03-2020,India,Manipur,1,India
+519,31-03-2020,India,Mizoram,1,India
+520,31-03-2020,India,Odisha,3,India
+521,31-03-2020,India,Puducherry,1,India
+522,31-03-2020,India,Punjab,41,India
+523,31-03-2020,India,Rajasthan,74,India
+524,31-03-2020,India,Tamil Nadu,74,India
+525,31-03-2020,India,Telengana,79,India
+526,31-03-2020,India,Uttarakhand,7,India
+527,31-03-2020,India,Uttar Pradesh,101,India
+528,31-03-2020,India,West Bengal,26,India
+529,31-03-2020,India,Unassigned,38,India
+530,01-04-2020,India,Andhra Pradesh,83,India
+531,01-04-2020,India,Andaman and Nicobar Islands,10,India
+532,01-04-2020,India,Assam,1,India
+533,01-04-2020,India,Bihar,23,India
+534,01-04-2020,India,Chandigarh,16,India
+535,01-04-2020,India,Chhattisgarh,9,India
+536,01-04-2020,India,Delhi,152,India
+537,01-04-2020,India,Goa,5,India
+538,01-04-2020,India,Gujarat,82,India
+539,01-04-2020,India,Haryana,43,India
+540,01-04-2020,India,Himachal Pradesh,3,India
+541,01-04-2020,India,Jammu and Kashmir,62,India
+542,01-04-2020,India,Jharkhand,1,India
+543,01-04-2020,India,Karnataka,101,India
+544,01-04-2020,India,Kerala,241,India
+545,01-04-2020,India,Ladakh,13,India
+546,01-04-2020,India,Madhya Pradesh,66,India
+547,01-04-2020,India,Maharashtra,302,India
+548,01-04-2020,India,Manipur,1,India
+549,01-04-2020,India,Mizoram,1,India
+550,01-04-2020,India,Odisha,4,India
+551,01-04-2020,India,Puducherry,3,India
+552,01-04-2020,India,Punjab,42,India
+553,01-04-2020,India,Rajasthan,93,India
+554,01-04-2020,India,Tamil Nadu,234,India
+555,01-04-2020,India,Telengana,96,India
+556,01-04-2020,India,Uttarakhand,7,India
+557,01-04-2020,India,Uttar Pradesh,103,India
+558,01-04-2020,India,West Bengal,37,India
+559,02-04-2020,India,Andhra Pradesh,86,India
+560,02-04-2020,India,Andaman and Nicobar Islands,10,India
+561,02-04-2020,India,Assam,5,India
+562,02-04-2020,India,Bihar,24,India
+563,02-04-2020,India,Chandigarh,16,India
+564,02-04-2020,India,Chhattisgarh,9,India
+565,02-04-2020,India,Delhi,219,India
+566,02-04-2020,India,Goa,5,India
+567,02-04-2020,India,Gujarat,87,India
+568,02-04-2020,India,Haryana,43,India
+569,02-04-2020,India,Himachal Pradesh,3,India
+570,02-04-2020,India,Jammu and Kashmir,62,India
+571,02-04-2020,India,Jharkhand,1,India
+572,02-04-2020,India,Karnataka,110,India
+573,02-04-2020,India,Kerala,265,India
+574,02-04-2020,India,Ladakh,13,India
+575,02-04-2020,India,Madhya Pradesh,99,India
+576,02-04-2020,India,Maharashtra,335,India
+577,02-04-2020,India,Manipur,1,India
+578,02-04-2020,India,Mizoram,1,India
+579,02-04-2020,India,Odisha,4,India
+580,02-04-2020,India,Puducherry,3,India
+581,02-04-2020,India,Punjab,46,India
+582,02-04-2020,India,Rajasthan,108,India
+583,02-04-2020,India,Tamil Nadu,234,India
+584,02-04-2020,India,Telengana,107,India
+585,02-04-2020,India,Uttarakhand,7,India
+586,02-04-2020,India,Uttar Pradesh,113,India
+587,02-04-2020,India,West Bengal,53,India
+588,03-04-2020,India,Andhra Pradesh,132,India
+589,03-04-2020,India,Andaman and Nicobar Islands,10,India
+590,03-04-2020,India,Arunachal Pradesh,1,India
+591,03-04-2020,India,Assam,16,India
+592,03-04-2020,India,Bihar,29,India
+593,03-04-2020,India,Chandigarh,18,India
+594,03-04-2020,India,Chhattisgarh,9,India
+595,03-04-2020,India,Delhi,219,India
+596,03-04-2020,India,Goa,6,India
+597,03-04-2020,India,Gujarat,95,India
+598,03-04-2020,India,Haryana,49,India
+599,03-04-2020,India,Himachal Pradesh,6,India
+600,03-04-2020,India,Jammu and Kashmir,75,India
+601,03-04-2020,India,Jharkhand,2,India
+602,03-04-2020,India,Karnataka,124,India
+603,03-04-2020,India,Kerala,286,India
+604,03-04-2020,India,Ladakh,14,India
+605,03-04-2020,India,Madhya Pradesh,104,India
+606,03-04-2020,India,Maharashtra,335,India
+607,03-04-2020,India,Manipur,2,India
+608,03-04-2020,India,Mizoram,1,India
+609,03-04-2020,India,Odisha,5,India
+610,03-04-2020,India,Puducherry,5,India
+611,03-04-2020,India,Punjab,48,India
+612,03-04-2020,India,Rajasthan,167,India
+613,03-04-2020,India,Tamil Nadu,309,India
+614,03-04-2020,India,Telengana,158,India
+615,03-04-2020,India,Uttarakhand,10,India
+616,03-04-2020,India,Uttar Pradesh,172,India
+617,03-04-2020,India,West Bengal,63,India
+618,03-04-2020,India,Unassigned,77,India
+619,04-04-2020,India,Andhra Pradesh,161,India
+620,04-04-2020,India,Andaman and Nicobar Islands,10,India
+621,04-04-2020,India,Arunachal Pradesh,1,India
+622,04-04-2020,India,Assam,24,India
+623,04-04-2020,India,Bihar,30,India
+624,04-04-2020,India,Chandigarh,18,India
+625,04-04-2020,India,Chhattisgarh,9,India
+626,04-04-2020,India,Delhi,445,India
+627,04-04-2020,India,Goa,7,India
+628,04-04-2020,India,Gujarat,105,India
+629,04-04-2020,India,Haryana,49,India
+630,04-04-2020,India,Himachal Pradesh,6,India
+631,04-04-2020,India,Jammu and Kashmir,75,India
+632,04-04-2020,India,Jharkhand,2,India
+633,04-04-2020,India,Karnataka,128,India
+634,04-04-2020,India,Kerala,295,India
+635,04-04-2020,India,Ladakh,14,India
+636,04-04-2020,India,Madhya Pradesh,104,India
+637,04-04-2020,India,Maharashtra,490,India
+638,04-04-2020,India,Manipur,2,India
+639,04-04-2020,India,Mizoram,1,India
+640,04-04-2020,India,Odisha,5,India
+641,04-04-2020,India,Puducherry,5,India
+642,04-04-2020,India,Punjab,57,India
+643,04-04-2020,India,Rajasthan,200,India
+644,04-04-2020,India,Tamil Nadu,411,India
+645,04-04-2020,India,Telengana,159,India
+646,04-04-2020,India,Uttarakhand,16,India
+647,04-04-2020,India,Uttar Pradesh,174,India
+648,04-04-2020,India,West Bengal,69,India
+649,05-04-2020,India,Andhra Pradesh,190,India
+650,05-04-2020,India,Andaman and Nicobar Islands,10,India
+651,05-04-2020,India,Arunachal Pradesh,1,India
+652,05-04-2020,India,Assam,26,India
+653,05-04-2020,India,Bihar,30,India
+654,05-04-2020,India,Chandigarh,18,India
+655,05-04-2020,India,Chhattisgarh,9,India
+656,05-04-2020,India,Delhi,503,India
+657,05-04-2020,India,Goa,7,India
+658,05-04-2020,India,Gujarat,122,India
+659,05-04-2020,India,Haryana,59,India
+660,05-04-2020,India,Himachal Pradesh,6,India
+661,05-04-2020,India,Jammu and Kashmir,106,India
+662,05-04-2020,India,Jharkhand,3,India
+663,05-04-2020,India,Karnataka,144,India
+664,05-04-2020,India,Kerala,306,India
+665,05-04-2020,India,Ladakh,14,India
+666,05-04-2020,India,Madhya Pradesh,165,India
+667,05-04-2020,India,Maharashtra,490,India
+668,05-04-2020,India,Manipur,2,India
+669,05-04-2020,India,Mizoram,1,India
+670,05-04-2020,India,Odisha,20,India
+671,05-04-2020,India,Puducherry,5,India
+672,05-04-2020,India,Punjab,57,India
+673,05-04-2020,India,Rajasthan,200,India
+674,05-04-2020,India,Tamil Nadu,485,India
+675,05-04-2020,India,Telengana,269,India
+676,05-04-2020,India,Uttarakhand,22,India
+677,05-04-2020,India,Uttar Pradesh,227,India
+678,05-04-2020,India,West Bengal,80,India
+679,06-04-2020,India,Andhra Pradesh,226,India
+680,06-04-2020,India,Andaman and Nicobar Islands,10,India
+681,06-04-2020,India,Arunachal Pradesh,1,India
+682,06-04-2020,India,Assam,26,India
+683,06-04-2020,India,Bihar,32,India
+684,06-04-2020,India,Chandigarh,18,India
+685,06-04-2020,India,Chhattisgarh,10,India
+686,06-04-2020,India,Delhi,523,India
+687,06-04-2020,India,Goa,7,India
+688,06-04-2020,India,Gujarat,144,India
+689,06-04-2020,India,Haryana,84,India
+690,06-04-2020,India,Himachal Pradesh,13,India
+691,06-04-2020,India,Jammu and Kashmir,109,India
+692,06-04-2020,India,Jharkhand,4,India
+693,06-04-2020,India,Karnataka,151,India
+694,06-04-2020,India,Kerala,314,India
+695,06-04-2020,India,Ladakh,14,India
+696,06-04-2020,India,Madhya Pradesh,165,India
+697,06-04-2020,India,Maharashtra,748,India
+698,06-04-2020,India,Manipur,2,India
+699,06-04-2020,India,Mizoram,1,India
+700,06-04-2020,India,Odisha,21,India
+701,06-04-2020,India,Puducherry,5,India
+702,06-04-2020,India,Punjab,76,India
+703,06-04-2020,India,Rajasthan,274,India
+704,06-04-2020,India,Tamil Nadu,571,India
+705,06-04-2020,India,Telengana,321,India
+706,06-04-2020,India,Uttarakhand,26,India
+707,06-04-2020,India,Uttar Pradesh,305,India
+708,06-04-2020,India,West Bengal,80,India
+709,07-04-2020,India,Andhra Pradesh,266,India
+710,07-04-2020,India,Andaman and Nicobar Islands,10,India
+711,07-04-2020,India,Arunachal Pradesh,1,India
+712,07-04-2020,India,Assam,26,India
+713,07-04-2020,India,Bihar,32,India
+714,07-04-2020,India,Chandigarh,18,India
+715,07-04-2020,India,Chhattisgarh,10,India
+716,07-04-2020,India,Delhi,576,India
+717,07-04-2020,India,Goa,7,India
+718,07-04-2020,India,Gujarat,165,India
+719,07-04-2020,India,Haryana,90,India
+720,07-04-2020,India,Himachal Pradesh,13,India
+721,07-04-2020,India,Jammu and Kashmir,116,India
+722,07-04-2020,India,Jharkhand,4,India
+723,07-04-2020,India,Karnataka,175,India
+724,07-04-2020,India,Kerala,327,India
+725,07-04-2020,India,Ladakh,14,India
+726,07-04-2020,India,Madhya Pradesh,229,India
+727,07-04-2020,India,Maharashtra,868,India
+728,07-04-2020,India,Manipur,2,India
+729,07-04-2020,India,Mizoram,1,India
+730,07-04-2020,India,Odisha,42,India
+731,07-04-2020,India,Puducherry,5,India
+732,07-04-2020,India,Punjab,91,India
+733,07-04-2020,India,Rajasthan,288,India
+734,07-04-2020,India,Tamil Nadu,621,India
+735,07-04-2020,India,Telengana,364,India
+736,07-04-2020,India,Tripura,1,India
+737,07-04-2020,India,Uttarakhand,31,India
+738,07-04-2020,India,Uttar Pradesh,305,India
+739,07-04-2020,India,West Bengal,91,India
+740,08-04-2020,India,Andhra Pradesh,305,India
+741,08-04-2020,India,Andaman and Nicobar Islands,10,India
+742,08-04-2020,India,Arunachal Pradesh,1,India
+743,08-04-2020,India,Assam,27,India
+744,08-04-2020,India,Bihar,38,India
+745,08-04-2020,India,Chandigarh,18,India
+746,08-04-2020,India,Chhattisgarh,10,India
+747,08-04-2020,India,Delhi,576,India
+748,08-04-2020,India,Goa,7,India
+749,08-04-2020,India,Gujarat,165,India
+750,08-04-2020,India,Haryana,147,India
+751,08-04-2020,India,Himachal Pradesh,18,India
+752,08-04-2020,India,Jammu and Kashmir,116,India
+753,08-04-2020,India,Jharkhand,4,India
+754,08-04-2020,India,Karnataka,175,India
+755,08-04-2020,India,Kerala,336,India
+756,08-04-2020,India,Ladakh,14,India
+757,08-04-2020,India,Madhya Pradesh,229,India
+758,08-04-2020,India,Maharashtra,1018,India
+759,08-04-2020,India,Manipur,2,India
+760,08-04-2020,India,Mizoram,1,India
+761,08-04-2020,India,Odisha,42,India
+762,08-04-2020,India,Puducherry,5,India
+763,08-04-2020,India,Punjab,91,India
+764,08-04-2020,India,Rajasthan,328,India
+765,08-04-2020,India,Tamil Nadu,690,India
+766,08-04-2020,India,Telengana,427,India
+767,08-04-2020,India,Tripura,1,India
+768,08-04-2020,India,Uttarakhand,31,India
+769,08-04-2020,India,Uttar Pradesh,343,India
+770,08-04-2020,India,West Bengal,99,India
+771,09-04-2020,India,Andhra Pradesh,348,India
+772,09-04-2020,India,Andaman and Nicobar Islands,11,India
+773,09-04-2020,India,Arunachal Pradesh,1,India
+774,09-04-2020,India,Assam,28,India
+775,09-04-2020,India,Bihar,39,India
+776,09-04-2020,India,Chandigarh,18,India
+777,09-04-2020,India,Chhattisgarh,10,India
+778,09-04-2020,India,Delhi,669,India
+779,09-04-2020,India,Goa,7,India
+780,09-04-2020,India,Gujarat,179,India
+781,09-04-2020,India,Haryana,169,India
+782,09-04-2020,India,Himachal Pradesh,18,India
+783,09-04-2020,India,Jammu and Kashmir,158,India
+784,09-04-2020,India,Jharkhand,13,India
+785,09-04-2020,India,Karnataka,181,India
+786,09-04-2020,India,Kerala,345,India
+787,09-04-2020,India,Ladakh,14,India
+788,09-04-2020,India,Madhya Pradesh,259,India
+789,09-04-2020,India,Maharashtra,1135,India
+790,09-04-2020,India,Manipur,2,India
+791,09-04-2020,India,Mizoram,1,India
+792,09-04-2020,India,Odisha,42,India
+793,09-04-2020,India,Puducherry,5,India
+794,09-04-2020,India,Punjab,101,India
+795,09-04-2020,India,Rajasthan,383,India
+796,09-04-2020,India,Tamil Nadu,738,India
+797,09-04-2020,India,Telengana,442,India
+798,09-04-2020,India,Tripura,1,India
+799,09-04-2020,India,Uttarakhand,35,India
+800,09-04-2020,India,Uttar Pradesh,410,India
+801,09-04-2020,India,West Bengal,103,India
+802,10-04-2020,India,Andhra Pradesh,363,India
+803,10-04-2020,India,Andaman and Nicobar Islands,11,India
+804,10-04-2020,India,Arunachal Pradesh,1,India
+805,10-04-2020,India,Assam,29,India
+806,10-04-2020,India,Bihar,60,India
+807,10-04-2020,India,Chandigarh,18,India
+808,10-04-2020,India,Chhattisgarh,10,India
+809,10-04-2020,India,Delhi,898,India
+810,10-04-2020,India,Goa,7,India
+811,10-04-2020,India,Gujarat,241,India
+812,10-04-2020,India,Haryana,169,India
+813,10-04-2020,India,Himachal Pradesh,28,India
+814,10-04-2020,India,Jammu and Kashmir,184,India
+815,10-04-2020,India,Jharkhand,13,India
+816,10-04-2020,India,Karnataka,197,India
+817,10-04-2020,India,Kerala,357,India
+818,10-04-2020,India,Ladakh,15,India
+819,10-04-2020,India,Madhya Pradesh,259,India
+820,10-04-2020,India,Maharashtra,1364,India
+821,10-04-2020,India,Manipur,2,India
+822,10-04-2020,India,Mizoram,1,India
+823,10-04-2020,India,Odisha,44,India
+824,10-04-2020,India,Puducherry,5,India
+825,10-04-2020,India,Punjab,132,India
+826,10-04-2020,India,Rajasthan,463,India
+827,10-04-2020,India,Tamil Nadu,834,India
+828,10-04-2020,India,Telengana,473,India
+829,10-04-2020,India,Tripura,1,India
+830,10-04-2020,India,Uttarakhand,35,India
+831,10-04-2020,India,Uttar Pradesh,431,India
+832,10-04-2020,India,West Bengal,116,India
+833,11-04-2020,India,Andhra Pradesh,381,India
+834,11-04-2020,India,Andaman and Nicobar Islands,11,India
+835,11-04-2020,India,Arunachal Pradesh,1,India
+836,11-04-2020,India,Assam,29,India
+837,11-04-2020,India,Bihar,60,India
+838,11-04-2020,India,Chandigarh,18,India
+839,11-04-2020,India,Chhattisgarh,18,India
+840,11-04-2020,India,Delhi,903,India
+841,11-04-2020,India,Goa,7,India
+842,11-04-2020,India,Gujarat,308,India
+843,11-04-2020,India,Haryana,177,India
+844,11-04-2020,India,Himachal Pradesh,28,India
+845,11-04-2020,India,Jammu and Kashmir,207,India
+846,11-04-2020,India,Jharkhand,17,India
+847,11-04-2020,India,Karnataka,214,India
+848,11-04-2020,India,Kerala,364,India
+849,11-04-2020,India,Ladakh,15,India
+850,11-04-2020,India,Madhya Pradesh,443,India
+851,11-04-2020,India,Maharashtra,1574,India
+852,11-04-2020,India,Manipur,2,India
+853,11-04-2020,India,Mizoram,1,India
+854,11-04-2020,India,Odisha,48,India
+855,11-04-2020,India,Puducherry,7,India
+856,11-04-2020,India,Punjab,132,India
+857,11-04-2020,India,Rajasthan,553,India
+858,11-04-2020,India,Tamil Nadu,911,India
+859,11-04-2020,India,Telengana,504,India
+860,11-04-2020,India,Tripura,2,India
+861,11-04-2020,India,Uttarakhand,35,India
+862,11-04-2020,India,Uttar Pradesh,433,India
+863,11-04-2020,India,West Bengal,126,India
+864,12-04-2020,India,Andhra Pradesh,381,India
+865,12-04-2020,India,Andaman and Nicobar Islands,11,India
+866,12-04-2020,India,Arunachal Pradesh,1,India
+867,12-04-2020,India,Assam,29,India
+868,12-04-2020,India,Bihar,64,India
+869,12-04-2020,India,Chandigarh,19,India
+870,12-04-2020,India,Chhattisgarh,25,India
+871,12-04-2020,India,Delhi,1069,India
+872,12-04-2020,India,Goa,7,India
+873,12-04-2020,India,Gujarat,432,India
+874,12-04-2020,India,Haryana,185,India
+875,12-04-2020,India,Himachal Pradesh,32,India
+876,12-04-2020,India,Jammu and Kashmir,224,India
+877,12-04-2020,India,Jharkhand,17,India
+878,12-04-2020,India,Karnataka,226,India
+879,12-04-2020,India,Kerala,374,India
+880,12-04-2020,India,Ladakh,15,India
+881,12-04-2020,India,Madhya Pradesh,564,India
+882,12-04-2020,India,Maharashtra,1761,India
+883,12-04-2020,India,Manipur,2,India
+884,12-04-2020,India,Mizoram,1,India
+885,12-04-2020,India,Odisha,54,India
+886,12-04-2020,India,Puducherry,7,India
+887,12-04-2020,India,Punjab,151,India
+888,12-04-2020,India,Rajasthan,700,India
+889,12-04-2020,India,Tamil Nadu,969,India
+890,12-04-2020,India,Telengana,504,India
+891,12-04-2020,India,Tripura,2,India
+892,12-04-2020,India,Uttarakhand,35,India
+893,12-04-2020,India,Uttar Pradesh,452,India
+894,12-04-2020,India,West Bengal,134,India
+895,13-04-2020,India,Andhra Pradesh,432,India
+896,13-04-2020,India,Andaman and Nicobar Islands,11,India
+897,13-04-2020,India,Arunachal Pradesh,1,India
+898,13-04-2020,India,Assam,31,India
+899,13-04-2020,India,Bihar,64,India
+900,13-04-2020,India,Chandigarh,21,India
+901,13-04-2020,India,Chhattisgarh,31,India
+902,13-04-2020,India,Delhi,1154,India
+903,13-04-2020,India,Goa,7,India
+904,13-04-2020,India,Gujarat,539,India
+905,13-04-2020,India,Haryana,185,India
+906,13-04-2020,India,Himachal Pradesh,32,India
+907,13-04-2020,India,Jammu and Kashmir,245,India
+908,13-04-2020,India,Jharkhand,19,India
+909,13-04-2020,India,Karnataka,247,India
+910,13-04-2020,India,Kerala,376,India
+911,13-04-2020,India,Ladakh,15,India
+912,13-04-2020,India,Madhya Pradesh,604,India
+913,13-04-2020,India,Maharashtra,1985,India
+914,13-04-2020,India,Manipur,2,India
+915,13-04-2020,India,Mizoram,1,India
+916,13-04-2020,India,Nagaland,1,India
+917,13-04-2020,India,Odisha,54,India
+918,13-04-2020,India,Puducherry,7,India
+919,13-04-2020,India,Punjab,167,India
+920,13-04-2020,India,Rajasthan,812,India
+921,13-04-2020,India,Tamil Nadu,1075,India
+922,13-04-2020,India,Telengana,562,India
+923,13-04-2020,India,Tripura,2,India
+924,13-04-2020,India,Uttarakhand,35,India
+925,13-04-2020,India,Uttar Pradesh,483,India
+926,13-04-2020,India,West Bengal,152,India
+927,14-04-2020,India,Andhra Pradesh,473,India
+928,14-04-2020,India,Andaman and Nicobar Islands,11,India
+929,14-04-2020,India,Arunachal Pradesh,1,India
+930,14-04-2020,India,Assam,31,India
+931,14-04-2020,India,Bihar,66,India
+932,14-04-2020,India,Chandigarh,21,India
+933,14-04-2020,India,Chhattisgarh,31,India
+934,14-04-2020,India,Delhi,1510,India
+935,14-04-2020,India,Goa,7,India
+936,14-04-2020,India,Gujarat,617,India
+937,14-04-2020,India,Haryana,199,India
+938,14-04-2020,India,Himachal Pradesh,32,India
+939,14-04-2020,India,Jammu and Kashmir,270,India
+940,14-04-2020,India,Jharkhand,24,India
+941,14-04-2020,India,Karnataka,258,India
+942,14-04-2020,India,Kerala,379,India
+943,14-04-2020,India,Ladakh,15,India
+944,14-04-2020,India,Madhya Pradesh,730,India
+945,14-04-2020,India,Maharashtra,2337,India
+946,14-04-2020,India,Manipur,2,India
+947,14-04-2020,India,Meghalaya,1,India
+948,14-04-2020,India,Mizoram,1,India
+949,14-04-2020,India,Nagaland,1,India
+950,14-04-2020,India,Odisha,55,India
+951,14-04-2020,India,Puducherry,7,India
+952,14-04-2020,India,Punjab,176,India
+953,14-04-2020,India,Rajasthan,879,India
+954,14-04-2020,India,Tamil Nadu,1173,India
+955,14-04-2020,India,Telengana,624,India
+956,14-04-2020,India,Tripura,2,India
+957,14-04-2020,India,Uttarakhand,35,India
+958,14-04-2020,India,Uttar Pradesh,657,India
+959,14-04-2020,India,West Bengal,190,India
+960,15-04-2020,India,Andaman and Nicobar Islands,11,India
+961,15-04-2020,India,Andhra Pradesh,503,India
+962,15-04-2020,India,Arunachal Pradesh,1,India
+963,15-04-2020,India,Assam,33,India
+964,15-04-2020,India,Bihar,70,India
+965,15-04-2020,India,Chandigarh,21,India
+966,15-04-2020,India,Chhattisgarh,33,India
+967,15-04-2020,India,Delhi,1561,India
+968,15-04-2020,India,Goa,7,India
+969,15-04-2020,India,Gujarat,695,India
+970,15-04-2020,India,Haryana,199,India
+971,15-04-2020,India,Himachal Pradesh,33,India
+972,15-04-2020,India,Jammu and Kashmir,278,India
+973,15-04-2020,India,Jharkhand,27,India
+974,15-04-2020,India,Karnataka,277,India
+975,15-04-2020,India,Kerala,387,India
+976,15-04-2020,India,Ladakh,17,India
+977,15-04-2020,India,Madhya Pradesh,987,India
+978,15-04-2020,India,Maharashtra,2687,India
+979,15-04-2020,India,Manipur,2,India
+980,15-04-2020,India,Meghalaya,7,India
+981,15-04-2020,India,Mizoram,1,India
+982,15-04-2020,India,Nagaland#,0,India
+983,15-04-2020,India,Odisha,60,India
+984,15-04-2020,India,Puducherry,7,India
+985,15-04-2020,India,Punjab,186,India
+986,15-04-2020,India,Rajasthan,1005,India
+987,15-04-2020,India,Tamil Nadu,1204,India
+988,15-04-2020,India,Telengana,647,India
+989,15-04-2020,India,Tripura,2,India
+990,15-04-2020,India,Uttarakhand,37,India
+991,15-04-2020,India,Uttar Pradesh,735,India
+992,15-04-2020,India,West Bengal,213,India
+993,16-04-2020,India,Andaman and Nicobar Islands,11,India
+994,16-04-2020,India,Andhra Pradesh,534,India
+995,16-04-2020,India,Arunachal Pradesh,1,India
+996,16-04-2020,India,Assam,33,India
+997,16-04-2020,India,Bihar,74,India
+998,16-04-2020,India,Chandigarh,21,India
+999,16-04-2020,India,Chhattisgarh,33,India
+1000,16-04-2020,India,Delhi,1578,India
+1001,16-04-2020,India,Goa,7,India
+1002,16-04-2020,India,Gujarat,871,India
+1003,16-04-2020,India,Haryana,205,India
+1004,16-04-2020,India,Himachal Pradesh,35,India
+1005,16-04-2020,India,Jammu and Kashmir,300,India
+1006,16-04-2020,India,Jharkhand,28,India
+1007,16-04-2020,India,Karnataka,315,India
+1008,16-04-2020,India,Kerala,388,India
+1009,16-04-2020,India,Ladakh,17,India
+1010,16-04-2020,India,Madhya Pradesh,1120,India
+1011,16-04-2020,India,Maharashtra,2919,India
+1012,16-04-2020,India,Manipur,2,India
+1013,16-04-2020,India,Meghalaya,7,India
+1014,16-04-2020,India,Mizoram,1,India
+1015,16-04-2020,India,Nagaland#,0,India
+1016,16-04-2020,India,Odisha,60,India
+1017,16-04-2020,India,Puducherry,7,India
+1018,16-04-2020,India,Punjab,186,India
+1019,16-04-2020,India,Rajasthan,1023,India
+1020,16-04-2020,India,Tamil Nadu,1242,India
+1021,16-04-2020,India,Telengana,698,India
+1022,16-04-2020,India,Tripura,2,India
+1023,16-04-2020,India,Uttarakhand,37,India
+1024,16-04-2020,India,Uttar Pradesh,773,India
+1025,16-04-2020,India,West Bengal,231,India
+1026,17-04-2020,India,Andaman and Nicobar Islands,11,India
+1027,17-04-2020,India,Andhra Pradesh,572,India
+1028,17-04-2020,India,Arunachal Pradesh,1,India
+1029,17-04-2020,India,Assam,35,India
+1030,17-04-2020,India,Bihar,83,India
+1031,17-04-2020,India,Chandigarh,21,India
+1032,17-04-2020,India,Chhattisgarh,36,India
+1033,17-04-2020,India,Delhi,1640,India
+1034,17-04-2020,India,Goa,7,India
+1035,17-04-2020,India,Gujarat,1021,India
+1036,17-04-2020,India,Haryana,205,India
+1037,17-04-2020,India,Himachal Pradesh,35,India
+1038,17-04-2020,India,Jammu and Kashmir,314,India
+1039,17-04-2020,India,Jharkhand,29,India
+1040,17-04-2020,India,Karnataka,353,India
+1041,17-04-2020,India,Kerala,395,India
+1042,17-04-2020,India,Ladakh,18,India
+1043,17-04-2020,India,Madhya Pradesh,1308,India
+1044,17-04-2020,India,Maharashtra,3205,India
+1045,17-04-2020,India,Manipur,2,India
+1046,17-04-2020,India,Meghalaya,9,India
+1047,17-04-2020,India,Mizoram,1,India
+1048,17-04-2020,India,Nagaland#,0,India
+1049,17-04-2020,India,Odisha,60,India
+1050,17-04-2020,India,Puducherry,7,India
+1051,17-04-2020,India,Punjab,186,India
+1052,17-04-2020,India,Rajasthan,1131,India
+1053,17-04-2020,India,Tamil Nadu,1267,India
+1054,17-04-2020,India,Telengana,743,India
+1055,17-04-2020,India,Tripura,2,India
+1056,17-04-2020,India,Uttarakhand,37,India
+1057,17-04-2020,India,Uttar Pradesh,846,India
+1058,17-04-2020,India,West Bengal,255,India
+1059,18-04-2020,India,Andaman and Nicobar Islands,12,India
+1060,18-04-2020,India,Andhra Pradesh,603,India
+1061,18-04-2020,India,Arunachal Pradesh,1,India
+1062,18-04-2020,India,Assam,35,India
+1063,18-04-2020,India,Bihar,85,India
+1064,18-04-2020,India,Chandigarh,21,India
+1065,18-04-2020,India,Chhattisgarh,36,India
+1066,18-04-2020,India,Delhi,1707,India
+1067,18-04-2020,India,Goa,7,India
+1068,18-04-2020,India,Gujarat,1272,India
+1069,18-04-2020,India,Haryana,225,India
+1070,18-04-2020,India,Himachal Pradesh,38,India
+1071,18-04-2020,India,Jammu and Kashmir,328,India
+1072,18-04-2020,India,Jharkhand,33,India
+1073,18-04-2020,India,Karnataka,371,India
+1074,18-04-2020,India,Kerala,396,India
+1075,18-04-2020,India,Ladakh,18,India
+1076,18-04-2020,India,Madhya Pradesh,1355,India
+1077,18-04-2020,India,Maharashtra,3323,India
+1078,18-04-2020,India,Manipur,2,India
+1079,18-04-2020,India,Meghalaya,11,India
+1080,18-04-2020,India,Mizoram,1,India
+1081,18-04-2020,India,Nagaland#,0,India
+1082,18-04-2020,India,Odisha,60,India
+1083,18-04-2020,India,Puducherry,7,India
+1084,18-04-2020,India,Punjab,202,India
+1085,18-04-2020,India,Rajasthan,1229,India
+1086,18-04-2020,India,Tamil Nadu,1323,India
+1087,18-04-2020,India,Telengana,791,India
+1088,18-04-2020,India,Tripura,2,India
+1089,18-04-2020,India,Uttarakhand,42,India
+1090,18-04-2020,India,Uttar Pradesh,969,India
+1091,18-04-2020,India,West Bengal,287,India
+1092,19-04-2020,India,Andaman and Nicobar Islands,14,India
+1093,19-04-2020,India,Andhra Pradesh,603,India
+1094,19-04-2020,India,Arunachal Pradesh,1,India
+1095,19-04-2020,India,Assam,35,India
+1096,19-04-2020,India,Bihar,86,India
+1097,19-04-2020,India,Chandigarh,23,India
+1098,19-04-2020,India,Chhattisgarh,36,India
+1099,19-04-2020,India,Delhi,1893,India
+1100,19-04-2020,India,Goa,7,India
+1101,19-04-2020,India,Gujarat,1604,India
+1102,19-04-2020,India,Haryana,233,India
+1103,19-04-2020,India,Himachal Pradesh,39,India
+1104,19-04-2020,India,Jammu and Kashmir,341,India
+1105,19-04-2020,India,Jharkhand,35,India
+1106,19-04-2020,India,Karnataka,384,India
+1107,19-04-2020,India,Kerala,400,India
+1108,19-04-2020,India,Ladakh,18,India
+1109,19-04-2020,India,Madhya Pradesh,1407,India
+1110,19-04-2020,India,Maharashtra,3651,India
+1111,19-04-2020,India,Manipur,2,India
+1112,19-04-2020,India,Meghalaya,11,India
+1113,19-04-2020,India,Mizoram,1,India
+1114,19-04-2020,India,Nagaland#,0,India
+1115,19-04-2020,India,Odisha,61,India
+1116,19-04-2020,India,Puducherry,7,India
+1117,19-04-2020,India,Punjab,219,India
+1118,19-04-2020,India,Rajasthan,1351,India
+1119,19-04-2020,India,Tamil Nadu,1372,India
+1120,19-04-2020,India,Telengana,844,India
+1121,19-04-2020,India,Tripura,2,India
+1122,19-04-2020,India,Uttarakhand,42,India
+1123,19-04-2020,India,Uttar Pradesh,1084,India
+1124,19-04-2020,India,West Bengal,310,India
+1125,20-04-2020,India,Andaman and Nicobar Islands,15,India
+1126,20-04-2020,India,Andhra Pradesh,722,India
+1127,20-04-2020,India,Arunachal Pradesh,1,India
+1128,20-04-2020,India,Assam,35,India
+1129,20-04-2020,India,Bihar,96,India
+1130,20-04-2020,India,Chandigarh,26,India
+1131,20-04-2020,India,Chhattisgarh,36,India
+1132,20-04-2020,India,Delhi,2003,India
+1133,20-04-2020,India,Goa,7,India
+1134,20-04-2020,India,Gujarat,1851,India
+1135,20-04-2020,India,Haryana,233,India
+1136,20-04-2020,India,Himachal Pradesh,39,India
+1137,20-04-2020,India,Jammu and Kashmir,350,India
+1138,20-04-2020,India,Jharkhand,42,India
+1139,20-04-2020,India,Karnataka,395,India
+1140,20-04-2020,India,Kerala,402,India
+1141,20-04-2020,India,Ladakh,18,India
+1142,20-04-2020,India,Madhya Pradesh,1485,India
+1143,20-04-2020,India,Maharashtra,4203,India
+1144,20-04-2020,India,Manipur,2,India
+1145,20-04-2020,India,Meghalaya,11,India
+1146,20-04-2020,India,Mizoram,1,India
+1147,20-04-2020,India,Nagaland,0,India
+1148,20-04-2020,India,Odisha,68,India
+1149,20-04-2020,India,Puducherry,7,India
+1150,20-04-2020,India,Punjab,219,India
+1151,20-04-2020,India,Rajasthan,1478,India
+1152,20-04-2020,India,Tamil Nadu,1477,India
+1153,20-04-2020,India,Telengana,873,India
+1154,20-04-2020,India,Tripura,2,India
+1155,20-04-2020,India,Uttarakhand,44,India
+1156,20-04-2020,India,Uttar Pradesh,1176,India
+1157,20-04-2020,India,West Bengal,339,India
+1158,21-04-2020,India,Andaman and Nicobar Islands,16,India
+1159,21-04-2020,India,Andhra Pradesh,757,India
+1160,21-04-2020,India,Arunachal Pradesh,1,India
+1161,21-04-2020,India,Assam,35,India
+1162,21-04-2020,India,Bihar,114,India
+1163,21-04-2020,India,Chandigarh,26,India
+1164,21-04-2020,India,Chhattisgarh,36,India
+1165,21-04-2020,India,Delhi,2081,India
+1166,21-04-2020,India,Goa,7,India
+1167,21-04-2020,India,Gujarat,2066,India
+1168,21-04-2020,India,Haryana,254,India
+1169,21-04-2020,India,Himachal Pradesh,39,India
+1170,21-04-2020,India,Jammu and Kashmir,368,India
+1171,21-04-2020,India,Jharkhand,46,India
+1172,21-04-2020,India,Karnataka,415,India
+1173,21-04-2020,India,Kerala,408,India
+1174,21-04-2020,India,Ladakh,18,India
+1175,21-04-2020,India,Madhya Pradesh,1540,India
+1176,21-04-2020,India,Maharashtra,4669,India
+1177,21-04-2020,India,Manipur,2,India
+1178,21-04-2020,India,Meghalaya,11,India
+1179,21-04-2020,India,Mizoram,1,India
+1180,21-04-2020,India,Nagaland,0,India
+1181,21-04-2020,India,Odisha,74,India
+1182,21-04-2020,India,Puducherry,7,India
+1183,21-04-2020,India,Punjab,245,India
+1184,21-04-2020,India,Rajasthan,1576,India
+1185,21-04-2020,India,Tamil Nadu,1520,India
+1186,21-04-2020,India,Telengana,919,India
+1187,21-04-2020,India,Tripura,2,India
+1188,21-04-2020,India,Uttarakhand,46,India
+1189,21-04-2020,India,Uttar Pradesh,1294,India
+1190,21-04-2020,India,West Bengal,392,India
+1191,22-04-2020,India,Andaman and Nicobar Islands,17,India
+1192,22-04-2020,India,Andhra Pradesh,813,India
+1193,22-04-2020,India,Arunachal Pradesh,1,India
+1194,22-04-2020,India,Assam,35,India
+1195,22-04-2020,India,Bihar,126,India
+1196,22-04-2020,India,Chandigarh,27,India
+1197,22-04-2020,India,Chhattisgarh,36,India
+1198,22-04-2020,India,Delhi,2156,India
+1199,22-04-2020,India,Goa,7,India
+1200,22-04-2020,India,Gujarat,2272,India
+1201,22-04-2020,India,Haryana,254,India
+1202,22-04-2020,India,Himachal Pradesh,39,India
+1203,22-04-2020,India,Jammu and Kashmir,380,India
+1204,22-04-2020,India,Jharkhand#,45,India
+1205,22-04-2020,India,Karnataka,425,India
+1206,22-04-2020,India,Kerala,427,India
+1207,22-04-2020,India,Ladakh,18,India
+1208,22-04-2020,India,Madhya Pradesh,1592,India
+1209,22-04-2020,India,Maharashtra,5221,India
+1210,22-04-2020,India,Manipur,2,India
+1211,22-04-2020,India,Meghalaya,12,India
+1212,22-04-2020,India,Mizoram,1,India
+1213,22-04-2020,India,Odisha,82,India
+1214,22-04-2020,India,Puducherry,7,India
+1215,22-04-2020,India,Punjab,251,India
+1216,22-04-2020,India,Rajasthan,1801,India
+1217,22-04-2020,India,Tamil Nadu,1596,India
+1218,22-04-2020,India,Telengana,945,India
+1219,22-04-2020,India,Tripura,2,India
+1220,22-04-2020,India,Uttarakhand,46,India
+1221,22-04-2020,India,Uttar Pradesh,1412,India
+1222,22-04-2020,India,West Bengal,423,India
+1223,23-04-2020,India,Andaman and Nicobar Islands,18,India
+1224,23-04-2020,India,Andhra Pradesh,895,India
+1225,23-04-2020,India,Arunachal Pradesh,1,India
+1226,23-04-2020,India,Assam,35,India
+1227,23-04-2020,India,Bihar,148,India
+1228,23-04-2020,India,Chandigarh,27,India
+1229,23-04-2020,India,Chhattisgarh,36,India
+1230,23-04-2020,India,Delhi,2248,India
+1231,23-04-2020,India,Goa,7,India
+1232,23-04-2020,India,Gujarat,2407,India
+1233,23-04-2020,India,Haryana,262,India
+1234,23-04-2020,India,Himachal Pradesh,40,India
+1235,23-04-2020,India,Jammu and Kashmir,407,India
+1236,23-04-2020,India,Jharkhand,49,India
+1237,23-04-2020,India,Karnataka,443,India
+1238,23-04-2020,India,Kerala,438,India
+1239,23-04-2020,India,Ladakh,18,India
+1240,23-04-2020,India,Madhya Pradesh,1695,India
+1241,23-04-2020,India,Maharashtra,5652,India
+1242,23-04-2020,India,Manipur,2,India
+1243,23-04-2020,India,Meghalaya,12,India
+1244,23-04-2020,India,Mizoram,1,India
+1245,23-04-2020,India,Odisha,83,India
+1246,23-04-2020,India,Puducherry,7,India
+1247,23-04-2020,India,Punjab,277,India
+1248,23-04-2020,India,Rajasthan,1890,India
+1249,23-04-2020,India,Tamil Nadu,1629,India
+1250,23-04-2020,India,Telengana,960,India
+1251,23-04-2020,India,Tripura,2,India
+1252,23-04-2020,India,Uttarakhand,46,India
+1253,23-04-2020,India,Uttar Pradesh,1509,India
+1254,23-04-2020,India,West Bengal,456,India
+1255,24-04-2020,India,Andaman and Nicobar Islands,22,India
+1256,24-04-2020,India,Andhra Pradesh,955,India
+1257,24-04-2020,India,Arunachal Pradesh,1,India
+1258,24-04-2020,India,Assam,36,India
+1259,24-04-2020,India,Bihar,176,India
+1260,24-04-2020,India,Chandigarh,27,India
+1261,24-04-2020,India,Chhattisgarh,36,India
+1262,24-04-2020,India,Delhi,2376,India
+1263,24-04-2020,India,Goa,7,India
+1264,24-04-2020,India,Gujarat,2624,India
+1265,24-04-2020,India,Haryana,272,India
+1266,24-04-2020,India,Himachal Pradesh,40,India
+1267,24-04-2020,India,Jammu and Kashmir,427,India
+1268,24-04-2020,India,Jharkhand,55,India
+1269,24-04-2020,India,Karnataka,463,India
+1270,24-04-2020,India,Kerala,448,India
+1271,24-04-2020,India,Ladakh,18,India
+1272,24-04-2020,India,Madhya Pradesh,1852,India
+1273,24-04-2020,India,Maharashtra,6430,India
+1274,24-04-2020,India,Manipur,2,India
+1275,24-04-2020,India,Meghalaya,12,India
+1276,24-04-2020,India,Mizoram,1,India
+1277,24-04-2020,India,Odisha,90,India
+1278,24-04-2020,India,Puducherry,7,India
+1279,24-04-2020,India,Punjab,277,India
+1280,24-04-2020,India,Rajasthan,1964,India
+1281,24-04-2020,India,Tamil Nadu,1683,India
+1282,24-04-2020,India,Telengana,984,India
+1283,24-04-2020,India,Tripura,2,India
+1284,24-04-2020,India,Uttarakhand,47,India
+1285,24-04-2020,India,Uttar Pradesh,1604,India
+1286,24-04-2020,India,West Bengal,514,India
+1287,25-04-2020,India,Andaman and Nicobar Islands,27,India
+1288,25-04-2020,India,Andhra Pradesh,1061,India
+1289,25-04-2020,India,Arunachal Pradesh,1,India
+1290,25-04-2020,India,Assam,36,India
+1291,25-04-2020,India,Bihar,228,India
+1292,25-04-2020,India,Chandigarh,28,India
+1293,25-04-2020,India,Chhattisgarh,36,India
+1294,25-04-2020,India,Delhi,2514,India
+1295,25-04-2020,India,Goa,7,India
+1296,25-04-2020,India,Gujarat,2815,India
+1297,25-04-2020,India,Haryana,272,India
+1298,25-04-2020,India,Himachal Pradesh,40,India
+1299,25-04-2020,India,Jammu and Kashmir,454,India
+1300,25-04-2020,India,Jharkhand,59,India
+1301,25-04-2020,India,Karnataka,489,India
+1302,25-04-2020,India,Kerala,451,India
+1303,25-04-2020,India,Ladakh,20,India
+1304,25-04-2020,India,Madhya Pradesh,1952,India
+1305,25-04-2020,India,Maharashtra,6817,India
+1306,25-04-2020,India,Manipur,2,India
+1307,25-04-2020,India,Meghalaya,12,India
+1308,25-04-2020,India,Mizoram,1,India
+1309,25-04-2020,India,Odisha,94,India
+1310,25-04-2020,India,Puducherry,7,India
+1311,25-04-2020,India,Punjab,298,India
+1312,25-04-2020,India,Rajasthan,2034,India
+1313,25-04-2020,India,Tamil Nadu,1755,India
+1314,25-04-2020,India,Telengana,984,India
+1315,25-04-2020,India,Tripura,2,India
+1316,25-04-2020,India,Uttarakhand,48,India
+1317,25-04-2020,India,Uttar Pradesh,1778,India
+1318,25-04-2020,India,West Bengal,571,India
+1319,26-04-2020,India,Andaman and Nicobar Islands,33,India
+1320,26-04-2020,India,Andhra Pradesh,1097,India
+1321,26-04-2020,India,Arunachal Pradesh,1,India
+1322,26-04-2020,India,Assam,36,India
+1323,26-04-2020,India,Bihar,251,India
+1324,26-04-2020,India,Chandigarh,30,India
+1325,26-04-2020,India,Chhattisgarh,37,India
+1326,26-04-2020,India,Delhi,2625,India
+1327,26-04-2020,India,Goa,7,India
+1328,26-04-2020,India,Gujarat,3071,India
+1329,26-04-2020,India,Haryana,289,India
+1330,26-04-2020,India,Himachal Pradesh,40,India
+1331,26-04-2020,India,Jammu and Kashmir,494,India
+1332,26-04-2020,India,Jharkhand,67,India
+1333,26-04-2020,India,Karnataka,501,India
+1334,26-04-2020,India,Kerala,458,India
+1335,26-04-2020,India,Ladakh,20,India
+1336,26-04-2020,India,Madhya Pradesh,2096,India
+1337,26-04-2020,India,Maharashtra,7628,India
+1338,26-04-2020,India,Manipur,2,India
+1339,26-04-2020,India,Meghalaya,12,India
+1340,26-04-2020,India,Mizoram,1,India
+1341,26-04-2020,India,Odisha,103,India
+1342,26-04-2020,India,Puducherry,7,India
+1343,26-04-2020,India,Punjab,298,India
+1344,26-04-2020,India,Rajasthan,2083,India
+1345,26-04-2020,India,Tamil Nadu,1821,India
+1346,26-04-2020,India,Telengana,991,India
+1347,26-04-2020,India,Tripura,2,India
+1348,26-04-2020,India,Uttarakhand,50,India
+1349,26-04-2020,India,Uttar Pradesh,1843,India
+1350,26-04-2020,India,West Bengal,611,India
+1351,27-04-2020,India,Andaman and Nicobar Islands,33,India
+1352,27-04-2020,India,Andhra Pradesh,1177,India
+1353,27-04-2020,India,Arunachal Pradesh,1,India
+1354,27-04-2020,India,Assam,36,India
+1355,27-04-2020,India,Bihar,277,India
+1356,27-04-2020,India,Chandigarh,30,India
+1357,27-04-2020,India,Chhattisgarh,37,India
+1358,27-04-2020,India,Delhi,2918,India
+1359,27-04-2020,India,Goa,7,India
+1360,27-04-2020,India,Gujarat,3301,India
+1361,27-04-2020,India,Haryana,289,India
+1362,27-04-2020,India,Himachal Pradesh,40,India
+1363,27-04-2020,India,Jammu and Kashmir,523,India
+1364,27-04-2020,India,Jharkhand,82,India
+1365,27-04-2020,India,Karnataka,511,India
+1366,27-04-2020,India,Kerala,469,India
+1367,27-04-2020,India,Ladakh,20,India
+1368,27-04-2020,India,Madhya Pradesh,2168,India
+1369,27-04-2020,India,Maharashtra,8068,India
+1370,27-04-2020,India,Manipur,2,India
+1371,27-04-2020,India,Meghalaya,12,India
+1372,27-04-2020,India,Mizoram,1,India
+1373,27-04-2020,India,Odisha,108,India
+1374,27-04-2020,India,Puducherry,8,India
+1375,27-04-2020,India,Punjab,313,India
+1376,27-04-2020,India,Rajasthan,2185,India
+1377,27-04-2020,India,Tamil Nadu,1885,India
+1378,27-04-2020,India,Telengana,1002,India
+1379,27-04-2020,India,Tripura,2,India
+1380,27-04-2020,India,Uttarakhand,51,India
+1381,27-04-2020,India,Uttar Pradesh,1955,India
+1382,27-04-2020,India,West Bengal,649,India
